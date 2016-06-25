@@ -3,3 +3,4 @@
 # dit script laat een listing van een directory zien
 
 ls -l
+date
