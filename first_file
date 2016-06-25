@@ -1,1 +1,5 @@
-eerste file
+#!/usr/bin/bash
+
+# dit script laat een listing van een directory zien
+
+ls -l
